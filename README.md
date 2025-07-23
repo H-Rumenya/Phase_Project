@@ -62,6 +62,7 @@ The bar plot of water points by source type we observe that in Tanzania, Spri
 From the bar plot, water wells data indicates three functionality status. The functional and non-functional water wells are nearly equal. However functional wells requiring repairs are significantly lower (under a thousand) for both categories.
 
 ![Water Wells Heat map](Images/Water_Wells_Heat_Map.png)
+
 The heatmap above shows the distribution of water wells across the country, with much denser points indicating more wells than the less denser points. Relatively, the heatmap indicates coverage of relevant geographies in Tanzania.
 
 ## Findings
