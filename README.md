@@ -55,14 +55,14 @@ Data set was processed by undertaking the following processes
 #### Some visualizations
 ![Count of water points by sources](Images/Graph_Tanzanian_water_points.png)
 
-The bar plot of water points by source type we observe that in Tanzania, Springs (17,021) are the main source of water followed by shallow wells (16,829) and boreholes (11,949), river/lakes, rainwater harvesting, dam and others in that order. 
-Wells are Man-made hole dug or drilled into the ground and require pumping or drawing manually to draw the water.
+The bar plot of water points by source type we observe that in Tanzania, Springs (17,021) are the main source of water followed by shallow wells (16,829) and boreholes (11,949), river/lakes, rainwater harvesting, dam and others in that order. Wells are Man-made hole dug or drilled into the ground and require pumping or drawing manually to draw the water.
 
 ![Count of Water Wells by functional status](Images/Water_wells_functionality.png)
 
 From the bar plot, water wells data indicates three functionality status. The functional and non-functional water wells are nearly equal. However functional wells requiring repairs are significantly lower (under a thousand) for both categories.
 
 ![Water Wells Heat map](Images/Water_Wells_Heat_Map.png)
+The heatmap above shows the distribution of water wells across the country, with much denser points indicating more wells than the less denser points. Relatively, the heatmap indicates coverage of relevant geographies in Tanzania.
 
 ## Findings
 
